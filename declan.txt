@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello from GillonHello from Adam
 Hello from Adam
 Hello from Adam
@@ -10,4 +11,9 @@ Hello from Adam
 Hello from Adam
 Hello from Adam
 hi from adam
+hi from adam
+=======
+
+Hello from Gareth
+>>>>>>> main
 hi from adam

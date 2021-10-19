@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello from Adam
 Hello from Adam
 Hello from Adam
@@ -11,4 +12,10 @@ Hello from Adam
 Hello from Adam
 Hello from Adam
 hi from adam
+hi from adam
+=======
+
+Hello from Louie
+Hello from Louie
+>>>>>>> main
 hi from adam
