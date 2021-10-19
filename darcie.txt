@@ -1,20 +1,2 @@
-<<<<<<< HEAD
-Hello from GillonHello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-Hello from Adam
-hi from adam
-hi from adam
-=======
 
-Louie Louie Louie
-
->>>>>>> main
-hi from adam
+louie
